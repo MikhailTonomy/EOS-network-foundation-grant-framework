@@ -166,13 +166,13 @@ In addition to the above, we want to make the distinction between Tonomy ID and 
 ### Team members
 
 - **Team Leader:** Jack Tanner
-- Chris Verhoef
-- Mikhail Rusanov
-- Carrie Ann Smith
-- Jordan Fisher
-- Mia Jacobson
-- Suneet Bendre
-- Rebal Alhaqash
+- Chris Verhoef (management and development)
+- Mikhail Rusanov (management and finance)
+- Carrie Ann Smith (deloper and vision)
+- Mia Jacobson (marketing and vision)
+- Suneet Bendre (developer)
+- Rebal Alhaqash (SSI developer)
+- Stefan Selg (marketing)
 
 ### Legal Structure
 - **Registered Legal Entity:** [Tonomy Stichting](https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=86537288)
